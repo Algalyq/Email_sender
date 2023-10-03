@@ -1,7 +1,7 @@
 # Email Sender
   Build docker container using this command:
   ```
-   docker build -t fastapi .
+   docker build -t mailer .
   ```
   Run command:
   ```
