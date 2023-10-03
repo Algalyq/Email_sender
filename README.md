@@ -11,7 +11,7 @@
 ## Testing code
 
   ```
-   pytest test.py
+   pytest tests/test.py
   ```
 
 ## Pull from Dockerhub
